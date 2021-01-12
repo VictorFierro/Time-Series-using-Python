@@ -7,5 +7,5 @@ Forecasting of electricity prices is a common task in the energy industry. Howev
 
 <b>OBJECTIVE</b>
 <br>
-In this notebook I show how to consider both, short term and long term seasonality in the same forecasting process. SARIMAX model is used to conduct the forecast of electricity prices for a year
+In this notebook I show how to consider both, short term and long term seasonality in the same forecasting process. SARIMAX model is used to conduct the forecast of electricity prices of the ERCOT network using 2019 prices.
 
